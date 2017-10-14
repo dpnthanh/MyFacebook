@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_introFragment_CreateAccount"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/TextView_JoinFacebook_createAccount1IntroFragment"
+        android:text="@string/textView_JoinFacebook_introFragment_createAccount"
+        android:textStyle="bold"
+        android:textColor="@color/TextView_JoinFacebook_FragmentIntro_CreateAccount"
+        android:textSize="@dimen/textSize_joinFacebook_createFrament1Intro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/marginTop_TextView_JoinFacebookVSTopParent_createFrament1Intro"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <TextView
+        android:id="@+id/TextView_help_createAccount1IntroFragment"
+        android:text="@string/textView_help_introFragment_createAccount"
+        android:textColor="@color/TextView_help_FragmentIntro_CreateAccount"
+        android:textSize="@dimen/textSize_help_IntroFragment_createAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@id/TextView_JoinFacebook_createAccount1IntroFragment"
+        android:layout_marginTop="@dimen/marginTop_TextView_helpVSjoinFacebook_introFragment_createAccount"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/button_next_introFragment_createAccount"
+        android:background="@drawable/button_next_create_account"
+        android:layout_width="wrap_content"
+        android:layout_height="39.3dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/marginTop_ButtonNextVSActionBar_introFragment_createAccount"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        style="?android:borderlessButtonStyle"/>
+
+</android.support.constraint.ConstraintLayout>

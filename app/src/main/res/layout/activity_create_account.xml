@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.my.thanh.nhat.pham.dang.myfacebook.CreateAccountActivity">
+
+    <include
+        android:id="@+id/toobar_custom_createAccount"
+        layout="@layout/toolbar_create_account">
+
+    </include>
+
+    <FrameLayout
+        android:id="@+id/frameLayout_InputFragment_createAccountActivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+</LinearLayout>

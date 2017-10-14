@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Facebook</string>
+
+    //Login
+    <string name="textView_language1_loginActivity">Tiếng Việt</string>
+    <string name="textView_language2_loginActivity">Englist</string>
+    <string name="textView_language3_loginActivity">More...</string>
+    <string name="textView_forgotPass_loginActivity">FORGOT PASSWORD?</string>
+    <string name="button_login_loginActivity">LOGIN</string>
+    <string name="button_createPass_loginActivity">CREATE NEW FACEBOOK ACCOUNT</string>
+    <string name="textView_or_loginActivity">OR</string>
+
+    <string name="editText_id_loginActivity">Email or Phone</string>
+    <string name="editText_password_loginActivity">Password</string>
+
+    <string name="dot"> - </string>
+
+    //Create Account
+    <string name="title_actionbar_CreateAccountActivity">Create Account</string>
+    <string name="textView_JoinFacebook_introFragment_createAccount">Join Facebook</string>
+    <string name="textView_help_introFragment_createAccount">We\'ll help you create a new account in a few easy steps.</string>
+
+</resources>

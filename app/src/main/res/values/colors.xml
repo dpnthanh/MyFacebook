@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4267b2</color>
+    <color name="colorPrimaryDark">#2f477a</color>
+    <color name="colorAccent">#5890ff</color>
+
+    //facebook color
+    //Login Activity
+    <color name="backgroundFacebook">#4267b2</color>
+
+    <color name="button_Login_LoginActivity">#4e69a2</color>
+    <color name="button_login_textLogin_LoginActivity">#e6e8eb</color>
+    <color name="button_CreatePassword_LoginActivity">#42b72a</color>
+    <color name="button_next_createPass_CreatePassActivity">#5890ff</color>
+
+    <color name="text_ForgotPassword_LoginActivity">#4267b2</color>
+    <color name="text_OR_LoginActivity">#4b4f56</color>
+    <color name="text_LanguageDefault_LoginActivity">#90949c</color>
+    <color name="text_LanguageHightlight_LoginActivity">#4267b2</color>
+
+    <color name="line_OR_LoginActivity">#ced0d4</color>
+
+    <color name="Edittext_text_Email_Pass_LoginActivity">#bec2c9</color>
+    <color name="Edittext_line_Email_Pass_LoginActivity">#e6e8eb</color>
+    <color name="Edittext_line_Email_Pass_WhenFocous_LoginActivity">#5890ff</color>
+
+    //Create Account Activity
+    <color name="background_actionbar_CreateAccount">#4267b2</color>
+    <color name="background_introFragment_CreateAccount">#f6f7f8</color>
+    <color name="TextView_JoinFacebook_FragmentIntro_CreateAccount">#141823</color>
+    <color name="TextView_help_FragmentIntro_CreateAccount">#6a7180</color>
+
+    <color name="button_next_FragmentIntro_CreateAccount">#5890ff</color>
+
+    //home
+    <color name="background_action_bar_home">#4267b2</color>
+    <color name="background_gray_home">#dcdee3</color>
+    <color name="icon_tabbar_default">#646a73</color>
+    <color name="icon_tabbar_higlight">#4080ff</color>
+    
+
+</resources>

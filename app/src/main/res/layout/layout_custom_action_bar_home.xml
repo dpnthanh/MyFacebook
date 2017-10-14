@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="63dp"
+    android:background="@color/background_action_bar_home">
+    <ImageButton
+        android:id="@+id/imageButton_paperAirplane_actionBarCustom"
+        android:src="@drawable/icon_paperairplane_actionbar"
+        android:layout_marginTop="18.5dp"
+        android:layout_marginLeft="@dimen/marginLeft_ParentLeftVSAirPlane"
+        android:background="#ffffffff"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:scaleType="fitXY"/>
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //loginActivity
+    <dimen name="marginTop_HeaderVSLinearLayout_Language_loginActivity">16dp</dimen>
+    <dimen name="marginLeftRight_dotVSlanguageitem_loginActivity">5dp</dimen>
+    <dimen name="marginTop_buttonLogin_loginActivity">425.5dp</dimen>
+    <dimen name="marginTop_HeaderVSLinearLayout_Input_loginActivity">90.5dp</dimen>
+    <dimen name="margitTop_buttonLogin_textViewForgotPass_loginActivity">18.3dp</dimen>
+    <dimen name="marginLeftRight_textViewOR_loginActivity">6dp</dimen>
+
+    <dimen name="textSize_textViewLanguage_loginActivity">14sp</dimen>
+
+    //CreateAccount Intro Fragment
+    <dimen name="marginTop_TextView_JoinFacebookVSTopParent_createFrament1Intro">77.8dp</dimen>
+    <dimen name="marginTop_TextView_helpVSjoinFacebook_introFragment_createAccount">36dp</dimen>
+    <dimen name="marginTop_ButtonNextVSActionBar_introFragment_createAccount">258dp</dimen>
+
+    <dimen name="textSize_joinFacebook_createFrament1Intro">18sp</dimen>
+    <dimen name="textSize_help_IntroFragment_createAccount">14sp</dimen>
+
+    //action bar
+    <dimen name="marginLeft_ParentLeftVSAirPlane">15dp</dimen>
+</resources>
